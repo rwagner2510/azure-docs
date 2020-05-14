@@ -20,6 +20,7 @@ For more help with mainframe emulation and services, refer to the [Azure Mainfra
 
 ## Migrate mainframe closer to Azure
 
+- [TSRI 34+ Language (COBOL, PL/1, VB6, others) Modernization](https://tsri.com) transforms, documents and refactors directly to a rearchitected & containerize modern C# app on .NET & .NET core.
 - [Micro Focus Visual COBOL](https://www.microfocus.com/products/visual-cobol/) development and integration tools.
 - [Micro Focus PL/I](https://www.microfocus.com/campaign/download/pli-modernization/) legacy compiler for the .NET platform, supporting mainframe PL/I syntax, data types, and behavior.
 - [Micro Focus Enterprise Server](https://www.microfocus.com/products/enterprise-suite/enterprise-server/) mainframe integration platform.
@@ -42,6 +43,7 @@ For more help with mainframe emulation and services, refer to the [Azure Mainfra
 
 ## Code conversion
 
+- [TSRI 34+ Language (COBOL, PL/1, VB6, others) Modernization](https://tsri.com) transforms, documents and refactors directly to a rearchitected & containerize modern C# app on .NET & .NET core.
 - [Asysco](https://www.asysco.com/azure-cloud/) source code conversion.
 - [LzLabs Software Defined Mainframe](https://www.lzlabs.com/) managed software container for migrating mainframe applications to Linux computers or private, public, and hybrid cloud environments.
 - [Blu Age](https://www.bluage.com/) tools for digitizing legacy business applications and databases.
@@ -52,3 +54,4 @@ For more help with mainframe emulation and services, refer to the [Azure Mainfra
 Microsoft partners with global system integrators (GSIs) who can help large organizations design, build, and manage solutions. 
 
 - [Azure Mainframe Migration center](https://azure.microsoft.com/migration/mainframe/)
+- [TSRI 34+ Language (COBOL, PL/1, VB6, others) Modernization](https://tsri.com) transforms, documents and refactors directly to a rearchitected & containerize modern C# app on .NET & .NET core.
